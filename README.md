@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tefrederick
-- 👀 I’m interested in developing my coding skills.
-- 🌱 I’m currently learning Drupal 9.
-- 💞️ I’m looking to collaborate on projects in the future.
+- 👀 I’m always interested in developing my coding skills.
 - 📫 How to reach me by email from my profile.
 
 <!---
